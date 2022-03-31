@@ -8,5 +8,6 @@ public class Kingfisher {
 	public void star() {
 		System.out.println();
 		System.out.println("hello");
+		System.out.println();
 	}
 }
